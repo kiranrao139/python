@@ -1,0 +1,4 @@
+finalAccuracy: 0.925
+    learn_rate = 0.15
+    batch_siz = 128
+    epoch = 100
